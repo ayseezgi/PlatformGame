@@ -20,7 +20,7 @@ A 3D platformer game where the player controls a character, moves across platfor
 - Pixabay
 - Mixamo
 
-## Credits
+## Attributions
 "Wallpaper" by Kevin MacLeod  
 https://incompetech.com  
 Licensed under Creative Commons: Attribution 4.0  
