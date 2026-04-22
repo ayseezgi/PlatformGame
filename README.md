@@ -3,7 +3,7 @@
 3D platformer game developed in Unity using C#.
 
 ## Description
-A 3D platformer game where the player controls a character, moves across platforms, overcomes various obstacles, and aims to complete levels. This repository contains the source code for a 3-level 3D platform.
+A 3D platformer game where the player controls a character, moves across platforms, overcomes various obstacles, and aims to complete levels. This repository contains the source code for a 3-level 3D platform game.
 
 ## Features
 - Level-based gameplay
