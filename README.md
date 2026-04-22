@@ -15,6 +15,7 @@
 ## Assets
 - Unity Asset Store
 - Pixabay
+- Mixamo
 
 ## Credits
 "Wallpaper" by Kevin MacLeod  
