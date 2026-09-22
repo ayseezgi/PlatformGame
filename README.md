@@ -24,7 +24,7 @@ A 3D platformer game where the player controls a character, moves across platfor
 - Mixamo
 
 ## Usage
-- The game begins in the main manu where you can salect level 1, 2 or 3, your in the Exit. the game.
+- The game begins at the main menu, where you can select level 1, 2, or 3, or Exit the game.
 - You can also controll the camera by holding the right click and moving the mouse.
 - Once the level has started you con move the character with the arrows keys or with the kyes A, W, S, D, and jump with the Space Bar.
 - While playing you can pause the game pressing the Esc key.
