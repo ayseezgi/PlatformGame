@@ -25,7 +25,7 @@ A 3D platformer game where the player controls a character, moves across platfor
 
 ## Usage
 - The game begins at the main menu, where you can select level 1, 2, or 3, or Exit the game.
-- Once the level has started you can also controll the camera by holding the right click and moving the mouse.
+- Once the level has started you can controll the camera by holding the right click and moving the mouse.
 - You con move the character with the arrows keys or with the kyes A, W, S, D, and jump with the Space Bar.
 - While playing you can pause the game pressing the Esc key.
 - To complete each level, you must hit the flag at the end.
